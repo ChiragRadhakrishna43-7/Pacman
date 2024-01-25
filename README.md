@@ -5,4 +5,13 @@ Implementation of different search algorithms for the Pacman game.
 # The core projects and autograders were primarily created by John DeNero (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).<br/>
 # Student side autograding was added by Brad Miller, Nick Hay, and Pieter Abbeel (pabbeel@cs.berkeley.edu).</p>
 
-<p align="justify">To run and play the Pacman Game, type the following command in the Anaconda terminal:<br/>  python pacman.py </p>
+<p align="justify">To run and play the Pacman Game, type the following command in the Anaconda terminal:<br/>
+
+[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-blue?style=flat-square&logo=clipboard)](javascript:void(0))
+<!-- python pacman.py -->
+
+<details>
+<summary>Click to expand/collapse the code</summary>
+
+```bash
+</p>
