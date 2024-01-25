@@ -15,4 +15,5 @@ Implementation of different search algorithms for the Pacman game.
 
 ```bash
 python pacman.py
+</details
 </p>
