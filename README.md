@@ -17,5 +17,6 @@ To run the Python Pacman game, use the following command:
 ```bash
 python pacman.py
 ```
+</details>
 
 <p align="justify"> Two specific search algorithms implemented are <br/>1. Breadth First Search (BFS) <br/>2. A Star Search (A*)</p>
