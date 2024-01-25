@@ -7,11 +7,12 @@ Implementation of different search algorithms for the Pacman game.
 
 <p align="justify">To run and play the Pacman Game, type the following command in the Anaconda terminal:<br/>
 
-[![Copy to Clipboard](https://img.shields.io/badge/Copy%20to%20Clipboard-blue?style=flat-square&logo=clipboard)](javascript:void(0))
-<!-- python pacman.py -->
+
+
 
 <details>
 <summary>Click to expand/collapse the code</summary>
 
 ```bash
+python pacman.py
 </p>
