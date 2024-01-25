@@ -16,6 +16,5 @@ To run the Python Pacman game, use the following command:
 
 ```bash
 python pacman.py
-</details>
 ```
 
