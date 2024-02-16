@@ -20,3 +20,12 @@ python pacman.py
 </details>
 
 <p align="justify"> Two specific search algorithms implemented are: <br/>1. Breadth First Search (BFS) <br/>2. A Star Search (A*)</p>
+
+<p align="justify"> To run Breadth First Search (BFS) Algorithm, use the following commands:</p>
+
+python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+
+<p align="justify"> To run A* Algorithm, use the command below. By default, the heuristic function is nullHeuristic. You can set the heuristic function to manhattanHeuristic by specifying the heuristic parameter during run time.</p>
+
+python pacman.py -l bigMaze -z .5 -p SearchAgent -a fn=astar,heuristic=manhattanHeuristic 
