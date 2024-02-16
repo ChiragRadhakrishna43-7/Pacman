@@ -29,7 +29,7 @@ python pacman.py
 <p>python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs <br/>
 python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5</p>
 
-
+![tiny_bfs](https://github.com/ChiragRadhakrishna43-7/Pacman/assets/121251823/12be3c4f-8a64-431f-bf70-4e435453dd75)
 
 <p align="justify"><h1>A Star (A*) Search</h1></p>
 <p align="justify"> To run A* Algorithm, use the command below. By default, the heuristic function is nullHeuristic. You can set the heuristic function to manhattanHeuristic by specifying the heuristic parameter during run time.</p>
