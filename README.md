@@ -23,6 +23,7 @@ python pacman.py
 
 <p align="justify"> Two specific search algorithms implemented are: <br/>1. Breadth First Search (BFS) <br/>2. A Star Search (A*)</p>
 
+<p align="justify"><h1> Breadth First Search</h1></p>
 <p align="justify"> To run Breadth First Search (BFS) Algorithm, use the following commands:</p>
 
 <p>python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs <br/>
