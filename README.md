@@ -19,6 +19,8 @@ python pacman.py
 ```
 </details>
 
+![interactive](https://github.com/ChiragRadhakrishna43-7/Pacman/assets/121251823/1bcd2805-8573-460d-9895-9d70cda6f0e8)
+
 <p align="justify"> Two specific search algorithms implemented are: <br/>1. Breadth First Search (BFS) <br/>2. A Star Search (A*)</p>
 
 <p align="justify"> To run Breadth First Search (BFS) Algorithm, use the following commands:</p>
